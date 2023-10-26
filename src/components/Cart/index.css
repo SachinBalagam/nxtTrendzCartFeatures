@@ -38,3 +38,11 @@
 }
 
 /* Write your CSS here */
+.remove-all-button {
+  align-self: flex-end;
+  background-color: transparent;
+  border: 0;
+  font-family: 'Roboto';
+  color: #0b69ff;
+  cursor: pointer;
+}

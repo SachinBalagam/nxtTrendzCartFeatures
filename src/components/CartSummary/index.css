@@ -1,1 +1,17 @@
 /* Write your CSS here */
+.cartSummary-container {
+  display: flex;
+  justify-content: flex-end;
+}
+.order-total {
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: #616e7c;
+}
+.item-total {
+  font-family: 'Roboto';
+  color: #616e7c;
+}
+.total-badge {
+  color: #171f46;
+}
